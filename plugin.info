@@ -1,0 +1,10 @@
+[Plugin]
+Name = Facebook Notifications
+Version = 1.0.0
+License = MIT
+URL = https://github.com/austincasteel/facebooknotifications/
+Description = Get notifications for Facebook events
+
+[Author]
+Name = Project Naomi
+URL = https://projectnaomi.com/
